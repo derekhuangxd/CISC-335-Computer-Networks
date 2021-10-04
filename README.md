@@ -1,5 +1,5 @@
 # CISC335-Computer-Networks
-Socket Programming Implementation for TCP (a1) and UDP (a2)
+Socket Programming Implementation for TCP and UDP
 
 Programming Environment
 --------------------------
